@@ -139,3 +139,7 @@ table {
 canvas {
   background-color: black;
 }
+/* Give everything black background */
+body {
+    background-color: black;
+}
